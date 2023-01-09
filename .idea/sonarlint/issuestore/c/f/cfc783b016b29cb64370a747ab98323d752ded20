@@ -1,0 +1,9 @@
+
+K
+java:S1611$"5Remove the parentheses around the "project" parameter(פקח¶
+i
+java:S1602$"SRemove useless curly braces around statement and then remove useless return keyword(פקח¶
+W
+java:S1612-"AReplace this lambda with method reference 'ProjectListView::new'.(ֿüû׀
+K
+java:S1611@"5Remove the parentheses around the "project" parameter(פקח¶

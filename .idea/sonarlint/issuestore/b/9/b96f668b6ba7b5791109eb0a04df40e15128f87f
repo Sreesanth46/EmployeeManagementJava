@@ -1,0 +1,13 @@
+
+V	java:S1257"<This block of commented-out lines of code should be removed.(ôãÈşşÿÿÿÿ
+V	java:S125A"<This block of commented-out lines of code should be removed.(ÂÂ¨°şÿÿÿÿ
+G
+java:S1611M"1Remove the parentheses around the "job" parameter(ùóŠÿ
+i
+java:S1602M"SRemove useless curly braces around statement and then remove useless return keyword(ùóŠÿ
+u
+java:S1128"ZRemove this unused import 'com.innovaturelabs.manager.security.util.TokenGenerator.Token'.(†«—ùÿÿÿÿ
+O
+java:S1068 "9Remove this unused "PURPOSE_REFRESH_TOKEN" private field.(¬¶•×
+O
+java:S11441"9Remove this unused private "multipleJobException" method.(ÓŒã

@@ -1,0 +1,7 @@
+
+M	java:S106H"9Replace this use of System.out or System.err by a logger.(ÅÎÎ*
+Q	java:S125K"<This block of commented-out lines of code should be removed.(¶”…Æ
+T
+java:S2121T"9Remove this "substring" call; it has predictable results.(Êú£¼úÿÿÿÿ
+Z
+java:S1612 ">Replace this lambda with method reference 'EmployeeView::new'.(³âÿÜùÿÿÿÿ

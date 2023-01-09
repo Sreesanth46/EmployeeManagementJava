@@ -1,0 +1,11 @@
+
+a	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+k	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øäÊŒÿÿÿÿÿ
+n	java:S116."TRename this field "client_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ƒ§ûøÿÿÿÿ
+l	java:S1161"XRename this field "client_secret" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤º®+
+o	java:S1164"URename this field "grant_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¥åìûÿÿÿÿ
+l	java:S1167"WRename this field "redirect_uri" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¶¡û
+V	java:S125L"<This block of commented-out lines of code should be removed.(–Ñª”øÿÿÿÿ
+T
+java:S1144½"=Remove this unused private "userNotVerifiedException" method.(¾¼›µ
